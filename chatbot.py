@@ -20,5 +20,5 @@ def chatbot():
         else:
             print("Chatbot: Sorry, I don't understand that.")
 
-# Function ko call karo
+# Function call
 chatbot()
